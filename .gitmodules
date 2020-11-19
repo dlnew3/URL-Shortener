@@ -1,0 +1,3 @@
+[submodule "part2/Flask-URL-Shortener"]
+	path = part2/Flask-URL-Shortener
+	url = https://github.com/GlowSquid/Flask-URL-Shortener.git
